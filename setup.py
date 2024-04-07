@@ -19,5 +19,5 @@ setup(
         'console_scripts': [
             'turingcoder=.main:main',
         ],
-    },
+    }
 )
