@@ -9,7 +9,7 @@ setup(
     include_package_data=True,
     url='https://github.com/FukjemiCZ/TuringCoder',
     license='LICENSE',
-    description='TuringCoder is an innovative Python application designed to streamline your workflow through automations, leveraging the power of OpenAI's GPT models. Whether you're organizing your project files, processing text data, or integrating AI-based text generation, DemoApp offers a flexible solution tailored to various needs.',
+    description="TuringCoder is an innovative Python application designed to streamline your workflow through automations, leveraging the power of OpenAI's GPT models. Whether you're organizing your project files, processing text data, or integrating AI-based text generation, DemoApp offers a flexible solution tailored to various needs.",
     long_description=open('README.md').read(),
     install_requires=[
         "requests",
